@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.py[cod]
+.env
+.env.*
+!.env.example
+*.db
+*.sqlite3
+*.lock
+*.log
+*.backup
+models/
+.cache/
+.DS_Store
+test_whisper.py
